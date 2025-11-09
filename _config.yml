@@ -23,7 +23,7 @@ repository               : "Dark3850/darioscilla.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile_pic.png"
   name             : "Dario Scilla"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student at KAUST | M.Sc. in Space Engineering"
