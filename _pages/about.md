@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<figure><img src='https://dark3850.github.io/darioscilla.github.io//images/Riyadh_Clean.png'> </figure>
 <p style="text-align: justify;"> Dario Scilla received his M.Sc. degree in Space Engineering from the <a href="https://www.unina.it/en/">University of Naples Federico II</a>, Italy, in 2022 and is currently pursuing a Ph.D. in Environmental Science and Engineering at <a href="https://www.kaust.edu.sa/en/">King Abdullah University of Science and Technology (KAUST)</a>, Saudi Arabia. His research focuses on computational imaging, remote sensing, and physics-informed deep learning, with a particular interest in water surface distortion removal and hyperspectral image processing. He has contributed to projects involving CubeSat missions, UAV-based environmental monitoring, and synthetic dataset generation for scientific imaging applications. Prior to his Ph.D., he gained industry experience as a satellite operator at <a href="https://www.iceye.com/">ICEYE</a> in Poland, working with synthetic aperture radar (SAR) satellite operations.
 
 <!-- A data-driven personal website
